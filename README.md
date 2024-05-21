@@ -15,7 +15,10 @@ This repository contains a Revit API add-in project developed in C#. Follow the 
 
 1. Clone the repository or download the ZIP file:
 
-` git clone https://github.com/engluanoliv/scanner-parameter.git `
+```
+git clone https://github.com/engluanoliv/scanner-parameter.git 
+
+```
 
 
 #### **Step 2: Locate Necessary Files** <h4>
