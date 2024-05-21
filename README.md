@@ -25,11 +25,14 @@ git clone https://github.com/engluanoliv/scanner-parameter.git
 
 1. In the downloaded project, locate the following files:
 
-ScannerParameters.addin
-ScannerParameters.dll
+** THIS FILES ARE IN THE ADDRESS: SCANNERPARAMETERS/BIN/DEBUG **
+
+* ScannerParameters.addin
+* ScannerParameters.dll
+* GalaSoft.MvvmLight.dll
 
 
-#### **Step 3: Copy the Add-in Files to Revit Add-ins Folder** <h4>
+#### **Step 3: Copy the Files to Revit Add-ins Folder** <h4>
 
 1. Navigate to the Revit Add-ins folder. The default path is usually:
 
