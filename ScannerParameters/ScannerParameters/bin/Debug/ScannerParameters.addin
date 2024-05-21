@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Parameter Scanner</Name>
+		<Assembly>ScannerParameters.dll</Assembly>
+		<AddInId>1700F049-648E-4103-8620-7D81790E6409</AddInId>
+		<FullClassName>ScannerParameters.Application</FullClassName>
+		<VendorId>Scanner Parameters</VendorId>
+		<VendorDescription>Scanner Parameters</VendorDescription>
+	</AddIn>
+</RevitAddIns>

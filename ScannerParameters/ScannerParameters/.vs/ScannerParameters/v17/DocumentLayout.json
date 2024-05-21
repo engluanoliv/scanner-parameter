@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScannerParameters.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScannerParameters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScannerParameters.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScannerParameters.csproj",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj",
+              "RelativeDocumentMoniker": "ScannerParameters.csproj",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj",
+              "RelativeToolTip": "ScannerParameters.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T01:33:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScannerParameters.addin",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.addin",
+              "RelativeDocumentMoniker": "ScannerParameters.addin",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.addin",
+              "RelativeToolTip": "ScannerParameters.addin",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-05-19T01:33:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScannerParameters.csproj.user",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj.user",
+              "RelativeDocumentMoniker": "ScannerParameters.csproj.user",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\ScannerParameters\\ScannerParameters\\ScannerParameters.csproj.user",
+              "RelativeToolTip": "ScannerParameters.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-05-19T01:33:31.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
